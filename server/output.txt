@@ -1,0 +1,110 @@
+----------------------
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+----------------------
+----------------------
+|                    |
+|         x          |
+|         x          |
+|         x          |
+|         x          |
+|         x          |
+|         x          |
+|         x          |
+|         x          |
+|         x          |
+|         x          |
+|         x          |
+|         x          |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+----------------------
+----------------------
+|                    |
+|         x          |
+|         x          |
+|         x          |
+|    xxxxxx          |
+|    x    x          |
+|    x    x          |
+|    x    x          |
+|    x    x          |
+|    xxxxxx          |
+|         x          |
+|         x          |
+|         x          |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+----------------------
+----------------------
+|dddddddddddddddddddd|
+|dddddddddxdddddddddd|
+|dddddddddxdddddddddd|
+|dddddddddxdddddddddd|
+|ddddxxxxxxdddddddddd|
+|ddddx    xdddddddddd|
+|ddddx    xdddddddddd|
+|ddddx    xdddddddddd|
+|ddddx    xdddddddddd|
+|ddddxxxxxxdddddddddd|
+|dddddddddxdddddddddd|
+|dddddddddxdddddddddd|
+|dddddddddxdddddddddd|
+|dddddddddddddddddddd|
+|dddddddddddddddddddd|
+|dddddddddddddddddddd|
+|dddddddddddddddddddd|
+|dddddddddddddddddddd|
+|dddddddddddddddddddd|
+|dddddddddddddddddddd|
+----------------------
+----------------------
+|rrrrrrrrrrrrrrrrrrrr|
+|rrrrrrrrrxrrrrrrrrrr|
+|rrrrrrrrrxrrrrrrrrrr|
+|rrrrrrrrrxrrrrrrrrrr|
+|rrrrxxxxxxrrrrrrrrrr|
+|rrrrx    xrrrrrrrrrr|
+|rrrrx    xrrrrrrrrrr|
+|rrrrx    xrrrrrrrrrr|
+|rrrrx    xrrrrrrrrrr|
+|rrrrxxxxxxrrrrrrrrrr|
+|rrrrrrrrrxrrrrrrrrrr|
+|rrrrrrrrrxrrrrrrrrrr|
+|rrrrrrrrrxrrrrrrrrrr|
+|rrrrrrrrrrrrrrrrrrrr|
+|rrrrrrrrrrrrrrrrrrrr|
+|rrrrrrrrrrrrrrrrrrrr|
+|rrrrrrrrrrrrrrrrrrrr|
+|rrrrrrrrrrrrrrrrrrrr|
+|rrrrrrrrrrrrrrrrrrrr|
+|rrrrrrrrrrrrrrrrrrrr|
+----------------------

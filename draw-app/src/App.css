@@ -1,0 +1,77 @@
+
+.add-figure {
+  background-color: #7c7c7c57;
+  border: none;
+  box-shadow: 0 0 6px 2px #60606057;
+}
+
+.main-body {
+  /* min-width: 100%; */
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.inputes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 200px;
+  width: 200px;
+  /* margin-right: auto; */
+  margin-bottom: auto;
+}
+
+.error{
+  color: red;
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+
+.canvas {
+  margin-left: 25px;
+  box-shadow: 0 0 10px 5px #60606057;
+  height: fit-content;
+}
+
+.row{
+  font-size: 1em;
+  display: flex;
+}
+
+.done-commands{
+  color: #99998e;
+  display: flex;
+  flex-direction: column;
+}
+
+.line-inputes {
+  display: flex;
+  flex-direction: column;
+}
+
+.loading{
+  background-color: #e2e2e228;
+}
+
+.about-canvas{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* margin-top: 100px; */
+}
+
+button{
+  width: 100px;
+}
+
+input,
+button,
+textarea {
+  outline: none;
+}
+
+pre, span{
+  margin: 0;
+  padding: 0;
+}
